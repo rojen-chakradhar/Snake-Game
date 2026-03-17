@@ -8,7 +8,7 @@ A small and simple snake game made to improve understanding the logic of js.
 
 ## Instruction
 - Open any browser you like
-- Search snake.rojen.name.np
+- Search rojenrandom.itch.io/snake-game
 - Then play the game and enjoy
 
 ### But if you want to get the code and see it on your device
@@ -21,7 +21,7 @@ A small and simple snake game made to improve understanding the logic of js.
 - Then play the game and enjoy
 
 ### If you are lazy to do all of that, Click the live demo below
-[click me!](https://snake.rojen.name.np)
+[click me!](https://rojenrandom.itch.io/snake-game)
 
 ## Feature / Bug but its a feature now
 - Beautiful UI
